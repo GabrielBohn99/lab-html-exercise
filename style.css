@@ -181,9 +181,9 @@ body {
         justify-content: center;
       }
       h3 {
-          font-size: 1.5em;
+          font-size: 2em;
           color: #ED1C24;
-          margin: 5px;
+          margin: 5px 0;
       }
       #create-org {
         padding: 75px 0;
@@ -194,14 +194,10 @@ body {
       #create-org > div {
         display: flex;
         justify-content: space-evenly;
+        margin: auto 200px;
       }
       #create-org > div > article {
         width: 250px;
-        display: flex;
-        justify-content: flex-start;
-        flex-direction: column;
-        align-items: center;
-        font-weight: 400;
       }
       #create-org img {
           width: 30px;
@@ -223,4 +219,5 @@ body {
       .art-font {
           font-weight: 600;
           margin: 2px 0;
+          font-size: 1.3em;
       }
