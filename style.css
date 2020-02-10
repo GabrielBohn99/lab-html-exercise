@@ -16,8 +16,11 @@ body {
   }
   
   nav ul {
+<<<<<<< HEAD
     font-size: 1.3em;
     font-weight: 900;
+=======
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
     list-style: none;
     display: flex;
     justify-content: space-between;
@@ -28,27 +31,40 @@ body {
     text-decoration: none;
     color: black;
   }
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
   .blackHeart {
     width: 20px;
     margin-right: 1rem;
   }
+<<<<<<< HEAD
   .nifty{
     font-size: 1.3em;
     font-weight: bold;
     height: 30px;
     text-align: center;
   }
+=======
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
   .sub-h {
       display: flex;
       justify-content: space-between;
   }
   .link-btn-h {
+<<<<<<< HEAD
       width: 1050px;
       height: 25px;
       display: flex;
       justify-content: start;
       padding-top: 5px;
+=======
+      width: 950px;
+      height: 25px;
+      display: flex;
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
   }
   .link-btn-h button {
     background-color: #fb3e44;
@@ -59,7 +75,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: flex-start;
+<<<<<<< HEAD
     padding: 5px 10px;
+=======
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
   }
 
   .link-btn-h label {
@@ -69,23 +88,39 @@ body {
       display: flex;
   }
   .link-btn-h input {
+<<<<<<< HEAD
       height: 32px;
+=======
+      height: 30px;
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
       width: 100%;
       background-color:rgba(0,0,0,.05);
       border: none;
   }
   .link-btn-h img {
+<<<<<<< HEAD
       height: 22px;
+=======
+      height: 20px;
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
       background-color: #f2f2f2;
       display: flex;
       justify-content: flex-start;
       border: none;
       padding: 5px;
+<<<<<<< HEAD
+=======
+      margin: none;
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
   }
   h4 img {
     height: 22px;
     width: 70px;
+<<<<<<< HEAD
     padding-right: 0px;
+=======
+    padding-right: 44px;
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
   }
   .top-btn {
       width: 150px;
@@ -95,12 +130,16 @@ body {
       align-items: center;
   }
   .btn-join {  
+<<<<<<< HEAD
       font-size: 1.3em;
 
+=======
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
       display: flex; 
       justify-content: flex-end; 
       text-align: center; 
       text-decoration: none;
+<<<<<<< HEAD
       border-color: black;
       border-style: solid;
       border-width: 2px 0.5px 0.5px;
@@ -110,6 +149,13 @@ body {
     } 
   .btn-log { 
       font-size: 1.3em;
+=======
+      border: 1px solid black;
+      padding: 5px 15px;
+      color: #364e4f;
+    } 
+  .btn-log { 
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
       display: flex; 
       justify-content: space-between; 
       text-align: center;
@@ -125,20 +171,31 @@ body {
       flex-direction: column;
   }
   h1 {
+<<<<<<< HEAD
       font-size: 8em;
+=======
+      font-size: 10em;
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
       text-align: center;
       display: flex;
       justify-content: center;
       line-height: 5px;
+<<<<<<< HEAD
       padding: 15px;
       font-weight: 900;
       margin: 100px auto;
+=======
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
   }
 
   #build-things p {
     width: 40%;
     margin: 5px auto;
+<<<<<<< HEAD
     font-size: 2em;
+=======
+    font-size: 3em;
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
     text-align: center;
     justify-content: center;
   }
@@ -162,9 +219,14 @@ body {
     display: flex;
   }
   .link-btn-join {
+<<<<<<< HEAD
     background-color: white;
     color: black;
     font-weight: 900;
+=======
+    color: black;
+    font-weight: 700;
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
     font-size: 2em;
     letter-spacing: 0.5px;
     text-align: center;
@@ -185,6 +247,7 @@ body {
         margin: 40px auto;
     }
     h2 {
+<<<<<<< HEAD
         width: 900px;
         height: 44px;
         text-align: center;
@@ -199,6 +262,19 @@ body {
     #best-of p {
         width: 55%;
         margin: 25px auto;
+=======
+        width: 800px;
+        text-align: center;
+        font-size: 3em;
+        font-style: italic;
+        background-color: rgba(255,204,53,.4);
+        transform: skew(9deg,0deg);
+        margin: 0 auto;
+    }
+    #best-of p {
+        width: 35%;
+        margin: 5px auto;
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
         font-size: 1.5em;
         text-align: center;
         justify-content: center;
@@ -207,10 +283,16 @@ body {
           font-size: 2em;
           color: #ED1C24;
           margin: 5px 0;
+<<<<<<< HEAD
           font-weight: 900;
       }
       #create-org {
         padding: 5px 0;
+=======
+      }
+      #create-org {
+        padding: 75px 0;
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
         margin: 0 auto;
         color: black;
         text-align: left;
@@ -218,11 +300,18 @@ body {
       #create-org > div {
         display: flex;
         justify-content: space-evenly;
+<<<<<<< HEAD
         margin: auto 100px;
       }
       #create-org > div > article {
         width: 250px;
         padding: 0px 20px;
+=======
+        margin: auto 200px;
+      }
+      #create-org > div > article {
+        width: 250px;
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
       }
       #create-org img {
           width: 30px;
@@ -233,17 +322,30 @@ body {
         background-color:  black;
         color: white;
         font-size: 2em;
+<<<<<<< HEAD
         font-weight: bold;
         letter-spacing: 0.5px;
         text-align: center;
         text-decoration: none;
         padding: 15px 150px 15px 150px;
+=======
+        letter-spacing: 0.5px;
+        text-align: center;
+        text-decoration: none;
+        padding: 10px 30px 10px 30px;
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
         box-shadow: 8px 8px 0 rgba(128,83,35,.2);
         display: flex;
         margin-top: 50px;
       }
       .art-font {
+<<<<<<< HEAD
           font-weight: 500;
           margin: 15px 0;
           font-size: 1.5em;
+=======
+          font-weight: 600;
+          margin: 2px 0;
+          font-size: 1.3em;
+>>>>>>> 6b5598a6ae827b82c5a79818f7e5d3d178334cd8
       }
