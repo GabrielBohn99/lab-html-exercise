@@ -28,9 +28,9 @@ body {
     text-decoration: none;
     color: black;
   }
-
   .blackHeart {
-    width: 20px;
+    width: 25px;
+    height: 10px;
     margin-right: 1rem;
   }
   .nifty{
@@ -186,7 +186,8 @@ body {
     }
     h2 {
         width: 900px;
-        height: 44px;
+        height: 39px;
+        line-height: 43px;
         text-align: center;
         font-size: 3.5em;
         font-style: italic;
